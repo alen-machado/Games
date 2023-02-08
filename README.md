@@ -12,8 +12,10 @@ tambien la creacion a traves de una base de datos relacional.
 - [ ] Sequelize - Postgres
 
 # Link de Github:
+https://github.com/alen-machado/Games/
 
 # Link deploy:
+https://games-five-beta.vercel.app/
 
 
 
