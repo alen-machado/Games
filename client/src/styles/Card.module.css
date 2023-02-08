@@ -1,0 +1,100 @@
+.conteiner{
+    /* background-color: gainsboro; */
+    /* margin: 5rem;
+    padding: 4rem;
+    width: 10rem;
+    height: 20rem;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    color: aliceblue;
+    transition: 0.3s; */
+   
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: aliceblue;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1px;
+    
+
+   
+}
+.name {
+    font:  'Acme', Fantasy;
+    font-size: 25px;
+    color: aliceblue;
+    text-decoration: underline white;
+}
+
+.img {
+    
+    border-radius: 15px;
+    padding: 0px;
+    width: 10rem;
+    display: flex;
+    right: 30px;
+    
+}
+
+.temp {
+    font-size: big;
+    
+}
+
+.button {
+    /* border-radius: 100px;
+    font-size: medium;
+    box-shadow: 5px 0px 20px 10px rgb(150, 142, 142);
+    border: 10px solid white;
+    cursor: pointer;
+     */
+    
+     font-size: 1.5rem;
+     border: solid 0.1rem;
+     
+}
+
+.button:hover {
+    /* color: black;
+    background-color: white;
+    box-shadow: black; */
+    font-size: 2rem;
+    cursor: pointer;
+    
+    
+}
+
+.button2 {
+    /* border-radius: 100px;
+    font-size: small;
+    box-shadow: 5px 0px 20px 10px rgb(150, 142, 142);
+    border: 2px 2px dotted white;
+    cursor: pointer;
+    background-color: Transparent;
+    color: white; */
+     
+    background-color: transparent;
+    color: white;
+    
+    border-radius: 50%;
+    font-size: 1.5rem;
+    cursor: pointer;
+    
+    
+    
+    
+    
+}
+
+.button2:hover {
+    /* border-radius: 100px;
+    border: 2px 2px dotted white;
+    background-color: Transparent; */
+    font-size: 2rem;
+    border-radius: 100px;
+    cursor: pointer;
+}

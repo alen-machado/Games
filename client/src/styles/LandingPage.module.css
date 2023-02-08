@@ -1,0 +1,103 @@
+.aboutUs {
+background-color: black;
+display: flex;
+width: 100%;
+padding: 0;
+width: 100;
+border-radius: 10px;
+
+
+
+}
+.container {
+    display: flex ;
+    
+}
+.title {
+   color: white;
+   left: 2%;
+   font-family: 'Kanit', sans-serif;
+   position: absolute;
+   
+}
+.aboutMe {
+   
+    /* justify-content: end; */
+    /* display: flex; */
+    /* position: relative; */
+    /* left: 600%; */
+    position: absolute;
+    left: 4%;
+
+}
+
+.aboutUs button {
+    padding: 2rem;
+    background-color: transparent;
+    color: white;
+    border: solid withe;
+    border-radius: 2rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    margin-left: 80%;
+    
+}
+.aboutUs button:hover {
+    
+    padding: 1rem;
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-size: 2rem;
+    transition: 0.5s;
+    margin-left: 80%;
+    
+}
+
+.buttonBox {
+     display: flex;
+    padding: 1rem;
+    background-color: transparent;
+    color: none;
+    
+    border-radius: 2rem;
+    font-size: 2rem;
+    cursor: pointer;
+    margin: 0 auto;
+    justify-content: center;
+    width: 10%;
+    position: relative;
+    top: 20rem;
+    left: 20rem; 
+    
+    
+
+}
+
+button:hover {
+    
+    padding: 1rem;
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-radius: 2rem;
+    text-shadow: 0rem 0rem 1rem white;
+    cursor: pointer;
+    font-size: 7rem;
+    transition: 0.5s;
+    margin: 0 auto;
+    
+}
+ 
+
+  button {
+    background-color: transparent;
+    border: none;
+    font-size: 5rem;
+    color: white;
+    
+    transition: 0.5s;
+ } 
+

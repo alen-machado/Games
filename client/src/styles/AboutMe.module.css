@@ -1,0 +1,99 @@
+.home {
+    
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    width: 10%;
+    
+    left: 80%;
+    position: relative;
+    
+  }
+  .home button {
+     
+     font-size: 2rem;
+     
+    
+     
+  }
+  .home button:hover {
+    cursor: pointer;
+    font-size: 3rem;
+  }
+  .container {
+    
+    background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75));
+    border-radius: 5rem;
+    height: 30%;
+    width: 80%;
+    left: 10%;
+    top: 30%;
+    position: relative;
+    color: antiquewhite;
+    
+
+    
+  }
+  .title {
+    
+    display: flex;
+    justify-content: end;
+    top: 10%;
+    position: absolute;
+    left: 35%;
+    text-decoration: underline;
+  }
+  .img {
+   
+    border-radius: 5rem;
+    display: flex;
+    width: 30%;
+    top: 40%;
+    position: relative;
+  }
+  .container2 {
+    
+    justify-content: center;
+    width: 100%;
+    height: 20rem;
+    
+
+  }
+  .div2 {
+    text-decoration: underline;
+  }
+ 
+  .div3 {
+     
+     top: 0rem;
+     position: relative;
+     height: 20%;
+     display: flex;
+     justify-content: start;
+     
+  }
+  .div4 {
+    
+    position: relative;
+    
+    height: 20%;
+    display: flex;
+     justify-content: start;
+
+  }
+  .div5 {
+    
+    position: relative;
+    display: flex;
+     justify-content: start;
+    
+    height: 20%;
+  }
+  .div6 {
+    position: relative;
+    display: flex;
+     justify-content: center;
+    
+    height: 20%;
+    
+  }
